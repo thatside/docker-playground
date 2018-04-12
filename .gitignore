@@ -4,5 +4,6 @@
 /back/var/
 vendor
 node_modules
+/docker/var/db
 
 
