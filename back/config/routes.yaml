@@ -1,0 +1,9 @@
+list:
+   path: /
+   controller: App\Controller\ItemController::listAction
+   methods: [GET]
+
+add:
+   path: /add
+   controller: App\Controller\ItemController::addAction
+   methods: [POST]
