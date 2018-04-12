@@ -1,0 +1,8 @@
+
+.env
+/back/public/bundles/
+/back/var/
+vendor
+node_modules
+
+
